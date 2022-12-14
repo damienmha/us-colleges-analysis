@@ -1,7 +1,8 @@
 # us-colleges-analysis
 This project is still ongoing. Doing analysis on data from the top 100 US collegs. I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
-/
+
 Below are some key visualizations
+
 ![image](https://user-images.githubusercontent.com/97273107/207600131-3b21c8e0-e8e6-484d-b44c-d52141ec9e53.png)
 ![image](https://user-images.githubusercontent.com/97273107/207600237-5d623cba-ba7f-4c76-b463-8716480d35ef.png)
 ![image](https://user-images.githubusercontent.com/97273107/207600273-dcc1cfdb-1ec5-4842-a16e-fa23984799b0.png)

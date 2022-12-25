@@ -15,4 +15,4 @@ I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
 
 ![image](https://user-images.githubusercontent.com/97273107/209460093-8c5e54ae-ba9f-434b-a3a8-ed3be4d1932b.png#gh-light-mode-only)
 
-<img width="425" alt="Screen Shot 2022-12-24 at 11 39 11 PM" src="https://user-images.githubusercontent.com/97273107/209460562-732794b5-d86b-4a80-a61e-1aed4621c7b1.png"#gh-dark-mode-only>
+<img width="425" alt="Screen Shot 2022-12-24 at 11 39 11 PM" src="https://user-images.githubusercontent.com/97273107/209460562-732794b5-d86b-4a80-a61e-1aed4621c7b1.png#gh-dark-mode-only">

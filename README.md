@@ -27,8 +27,8 @@ I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
 
 ## EDA
 
-There are several factors in college admissions that seem to be correlated. Feel free to read about the specifics above
+There are several factors in college admissions that seem to be correlated. Feel free to read about the specifics in the EDA file above
 
 ## ML
 
-After trying several different models and various parameters, the highest accuracy score I could obtain was 0.222. Using a small dataset containing only the top colleges may not have allowed these models to be trained to the best extent, and perhaps other variables might have better predictive value. Nevertheless, you can view the results of my attempts above
+After trying several different models and various parameters, the highest accuracy score I could obtain was 0.222. Using a small dataset containing only the top colleges may not have allowed these models to be trained to the best extent, and perhaps other variables might have better predictive value. Nevertheless, you can view the results of my attempts in the ML file above

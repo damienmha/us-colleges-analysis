@@ -2,7 +2,7 @@
 by Damien Ha
 
 ## Description
-This project is still ongoing. The goal is to analyze various quantitative variables relating to admission and attendance of the top 100 US colleges, then attempt to classify colleges by state using machine learning. 
+The goal is to analyze various quantitative variables relating to admission and attendance of the top 100 US colleges, then attempt to classify colleges by state using machine learning. 
 
 ## Dataset
 I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
@@ -25,3 +25,10 @@ I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
 
 <img width="413" alt="Screen Shot 2022-12-24 at 11 45 08 PM" src="https://user-images.githubusercontent.com/97273107/209460656-79b65902-6a66-4c2c-bf66-66953d1dd433.png#gh-dark-mode-only">
 
+## EDA
+
+There are several factors in college admissions that seem to be correlated. Feel free to read about the specifics above
+
+## ML
+
+After trying several different models and various parameters, the highest accuracy score I could obtain was 0.222. Using a small dataset containing only the top colleges may not have allowed these models to be trained to the best extent, and perhaps other variables might have better predictive value. Nevertheless, you can view the results of my attempts above

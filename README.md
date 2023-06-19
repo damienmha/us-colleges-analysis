@@ -2,7 +2,7 @@
 by Damien Ha
 
 ## Description
-This project is still ongoing. The goal is to analyze various quantitaive variables relating to admission and attendance of the top 100 US collegs. 
+This project is still ongoing. The goal is to analyze various quantitative variables relating to admission and attendance of the top 100 US colleges, then attempt to classify colleges by state using machine learning. 
 
 ## Dataset
 I obtained the data from UCLA's Summer 2021 Session C Stats 20 course page.
